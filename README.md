@@ -1,4 +1,7 @@
-# Kubernetes Authentication Example
+_This repository is forked from https://github.com/pusher/k8s-auth-example and appears to do everything we need
+for now, so we are using it as-is until we find a reason not to._
+
+# Kubernetes Authentication
 This code is provided verbatim as an example of how to connect to an OIDC
 provider and authenticate users before configuring their `kubeconfig`.
 
